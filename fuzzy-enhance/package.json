@@ -1,0 +1,7 @@
+{
+  "name": "fuzzy-enhance",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": ["mobile", "backend", "shared"],
+  "description": "Complex Fuzzy Logic Image Enhancement System - React Native + Node.js monorepo"
+}
