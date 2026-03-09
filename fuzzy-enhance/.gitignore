@@ -1,9 +1,9 @@
-node_modules
-dist
-.expo
-tmp
-*.log
-.env
-.env.local
-.DS_Store
-*.tsbuildinfo
+# node_modules
+# dist
+# .expo
+# tmp
+# *.log
+# .env
+# .env.local
+# .DS_Store
+# *.tsbuildinfo
